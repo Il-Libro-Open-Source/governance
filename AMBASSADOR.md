@@ -1,0 +1,26 @@
+# Lista di Ambassador attualmente in carica
+
+La lista viene compilata in ordine alfabetico.
+
+- [Alessandro Cappellozza](https://github.com/orgs/Il-Libro-Open-Source/people/eppak) - (2023-09-05 - Attualmente in carica)
+- [Alessio D'Anna](https://github.com/orgs/Il-Libro-Open-Source/people/Developpoo) - (2023-09-05 - Attualmente in carica)
+- [Andrea Guzzo](https://github.com/orgs/Il-Libro-Open-Source/people/JeyDi) - (2023-09-05 - Attualmente in carica)
+- [Angelo Cassano](https://github.com/orgs/Il-Libro-Open-Source/people/AngeloAvv) - (2023-09-09 - Attualmente in carica)
+- [Claudio Bello](https://github.com/orgs/Il-Libro-Open-Source/people/Cb040719) - (2023-09-06 - Attualmente in carica)
+- [Corrado Petrelli](https://github.com/orgs/Il-Libro-Open-Source/people/corradopetrelli) - (2023-09-05 - Attualmente in carica)
+- [Davide Imola](https://github.com/orgs/Il-Libro-Open-Source/people/davideimola) - (2023-09-05 - Attualmente in carica)
+- [Emanuele Bartolesi](https://github.com/orgs/Il-Libro-Open-Source/people/kasuken) - (2023-09-06 - Attualmente in carica)
+- [Enrico Maria Cestari](https://github.com/orgs/Il-Libro-Open-Source/people/EMCestari) - (2023-09-06 - Attualmente in carica)
+- [Federico Passanante](https://github.com/orgs/Il-Libro-Open-Source/people/passasooz) - (2023-09-05 - Attualmente in carica)
+- [Francesco Bianco](https://github.com/orgs/Il-Libro-Open-Source/people/francescobianco) - (2023-09-05 - Attualmente in carica)
+- [Guido Penta](https://github.com/orgs/Il-Libro-Open-Source/people/GuidoPenta) - (2023-09-05 - Attualmente in carica)
+- [Guido Porcaro](https://github.com/orgs/Il-Libro-Open-Source/people/elgorditosalsero) - (2023-09-05 - Attualmente in carica)
+- [Marco Perugini](https://github.com/orgs/Il-Libro-Open-Source/people/imD3v) - (2023-09-05 - Attualmente in carica)
+- [Michael Di Prisco](https://github.com/orgs/Il-Libro-Open-Source/people/Cadienvan) - (2023-07-05 - Attualmente in carica)
+- [Michel Murabito](https://github.com/orgs/Il-Libro-Open-Source/people/akelity) - (2023-09-09 - Attualmente in carica)
+- [Nicola Erario](https://github.com/orgs/Il-Libro-Open-Source/people/nicolaerario) - (2023-09-05 - Attualmente in carica)
+- [Serena Sensini](https://github.com/orgs/Il-Libro-Open-Source/people/serenasensini) - (2023-09-05 - Attualmente in carica)
+- [Simone Gentili](https://github.com/orgs/Il-Libro-Open-Source/people/sensorario) - (2023-09-09 - Attualmente in carica)
+- [Simone Gizzi](https://github.com/orgs/Il-Libro-Open-Source/people/guizzo) - (2023-09-05 - Attualmente in carica)
+- [Simone Torrisi](https://github.com/orgs/Il-Libro-Open-Source/people/storrisi) - (2023-09-05 - Attualmente in carica)
+- [Stefano Torresi](https://github.com/orgs/Il-Libro-Open-Source/people/stefanotorresi) - (2023-09-05 - Attualmente in carica)
