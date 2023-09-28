@@ -15,7 +15,7 @@ Può essere proposto dal Governance Group o da un Ambassador che lo propone al G
 
 ## Drafting Group
 
-_Attualmente in fase di elezione._
+_Presieduto da Serena Sensini, Andrea Guzzo, Angelo Cassano._
 
 Questo gruppo si occuperà di dettare e far rispettare le linee guida di stesura dei testi, sia dal punto di vista della grammatica che della forma.
 
@@ -37,7 +37,7 @@ Questo gruppo avrà l'autorità di rifiutare PR che non rispettino le linee guid
 
 ## Communication Group
 
-_Attualmente in fase di elezione._
+_Presieduto da Simone Gentili, Guido Porcaro, Marco Perugini._
 
 Questo gruppo si occuperà della comunicazione interna tra gli ambassador.
 
@@ -85,7 +85,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone che hanno avu
 
 ## Governance Group
 
-_Attualmente in fase di elezione._
+_Presieduto da Michael Di Prisco, Michel Murabito, Francesco Bianco, Davide Imola, Enrico Maria Cestari._
 
 Questo gruppo si occuperà di tutto ciò che concerne la gestione del progetto, ovvero le linee guida di nomina e allontanamento degli ambassador, la gestione degli altri Working Group (Inserimento o spostamento di membri), l'organizzazione dei meeting, ecc.
 
