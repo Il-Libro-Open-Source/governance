@@ -16,7 +16,7 @@
 ### Codemotion
 
 - abbiamo stabilito a chi dare i biglietti.
-- non abbiamo ancora stabilito a chi parla
+- non abbiamo ancora stabilito chi parla
 
 ### TOC Codemotion
 
