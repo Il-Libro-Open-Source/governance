@@ -1,6 +1,6 @@
 # Intento del documento
 
-Questo documento identifica delle semplici e basilari linee guida quando si intrattengono relazioni a nome del progetto.  
+Questo documento identifica delle semplici e basilari linee guida quando si intrattengono relazioni a nome del progetto.
 
 Queste linee guida sono da intendersi come regole _di buon senso_ e di corretta comunicazione.
 
@@ -23,6 +23,7 @@ Non avendo ancora stabilito un titolo ufficiale per il progetto, si consiglia di
 ## Esposizione dei valori del progetto
 
 Il progetto si basa su alcuni valori fondamentali, che sono:
+
 - `Open Source`: Il progetto vive grazie al supporto di tutti, e tutti possono contribuire in qualsiasi modo ritengano opportuno.
 - `Open Governance`: Il progetto è aperto a tutti, non esistono gerarchie o ruoli, e tutti possono contribuire in qualsiasi modo ritengano opportuno. Chiunque può proporre un cambiamento o una modifica, e tutti possono esprimere la propria opinione.
 - `Collaborazione`: Avere la stessa opinione su tutto, in una qualsiasi community, è piuttosto difficile, se non addirittura impossibile. È importante che tutti possano esprimere la propria opinione e che tutti abbiano come obiettivo comune il miglioramento del progetto e la collaborazione reciproca, a testimonianza della nostra convinzione che insieme possiamo creare qualcosa di più grande della somma delle sue parti.
@@ -46,4 +47,3 @@ La partecipazione a eventi è un aspetto fondamentale per la crescita del proget
 Non vengono posti limiti o vincoli alla partecipazione a eventi, meetup e similari, ma è importante che vi sia una previa comunicazione e condivisione di eventuali slide o contenuti che verranno utilizzati durante l'evento riguardo al progetto.
 
 Questo non è un modo per limitare la libertà di espressione delle persone, ma anzi è un modo per garantire che i contenuti siano consoni e che rispettino le linee guida del progetto, oltre che essere una fonte di scambio di informazioni e arricchimento reciproco.
-
