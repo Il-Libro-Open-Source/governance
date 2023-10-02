@@ -1,4 +1,4 @@
-# Meeting 2023-09-28 Relational group
+# Meeting 2023-09-28 Relations group
 
 ## Presenti
 
