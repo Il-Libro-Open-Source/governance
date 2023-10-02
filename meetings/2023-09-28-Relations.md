@@ -65,7 +65,7 @@ Benvenuti a questa sessione di feedback del Libro, inserire delle domande.
 ### Chi parla al codemotion?
 
 - Michael Di Prisco: direzione del progetto.
-- Davide Imola: molto bravo a livello di community e fa parte del Founding Group
+- Davide Imola: molto bravo a livello di community e fa parte del Funding Group
 - Simone Gizzi: ci sta mettendo molto la faccia e si sta spendendo molto
 - Guido Penta: molto vicino agli sviluppatori e non prettamente dev, ha più seguito.
 
