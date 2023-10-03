@@ -1,5 +1,15 @@
 [
     {
+        "user": "rafleze",
+        "beginDate": "2023-09-30",
+        "endDate": null
+    },
+    {
+        "user": "manuelricci",
+        "beginDate": "2023-09-30",
+        "endDate": null
+    },
+    {
         "user": "BrianAtzori",
         "beginDate": "2023-09-30",
         "endDate": null
@@ -176,6 +186,7 @@
     },
     {
         "user": "stefanotorresi",
-        "beginDate": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     }
 ]
