@@ -29,6 +29,9 @@ const get = async (user) => {
 };
 const main = async () => {
     const names = [];
+
+    console.log('Lettura in corso...');
+    
     for (const user of users) {
         try {
             const result = await get(user.user);
@@ -40,9 +43,12 @@ const main = async () => {
         }
     }
     names.sort((a, b) => (a.name > b.name ? 1 : b.name > a.name ? -1 : 0));
+    
     for (const user of names) {
-        console.log(`-[${user.name}](${user.url}) - (${user.date} - Attualmente in carica)`);
+        console.log(`-[${user.name}](${user.url}) - (${user.beginDate} - ${user.endDate ?? "Attualmente in carica"})`);
     }
+
+    console.log(`${names.length} totali`);
 };
 
 main();

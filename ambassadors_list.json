@@ -1,190 +1,181 @@
-[    
-    {
-        "user": "manuelricci",
-        "date": "2023-09-30"
-    },
+[
     {
         "user": "BrianAtzori",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "allevo",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "ugho16",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "gregoriopalama",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "fulgido",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "giuppidev",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "pantarei-mb",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "fsciuti",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "AngyDev",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "Mik23mik",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "Nobu89",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "devnuli",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "lmammino",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "rafleze",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "fdboarelli",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "marco-ippolito",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "bananabarb",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "christiancannata",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "halfpass25",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "Sab-tech-lab",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "sistella",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "Saleiux",
-        "date": "2023-09-30"
-    },
-    {
-        "user": "mino89",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "frnmjn",
-        "date": "2023-09-30"
+        "beginDate": "2023-09-30",
+        "endDate": null
     },
     {
         "user": "eppak",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "Developpoo",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "JeyDi",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "AngeloAvv",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "Cb040719",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "corradopetrelli",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "davideimola",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "kasuken",
-        "date": "2023-09-06"
+        "beginDate": "2023-09-06",
+        "endDate": null
     },
     {
         "user": "EMCestari",
-        "date": "2023-09-06"
+        "beginDate": "2023-09-06",
+        "endDate": null
     },
     {
         "user": "francescobianco",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "passasooz",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "GuidoPenta",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "elgorditosalsero",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "imD3v",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "Cadienvan",
-        "date": "2023-07-05"
+        "beginDate": "2023-07-05",
+        "endDate": null
     },
     {
         "user": "akelity",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "nicolaerario",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "serenasensini",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "sensorario",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "guizzo",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "storrisi",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05",
+        "endDate": null
     },
     {
         "user": "stefanotorresi",
-        "date": "2023-09-05"
+        "beginDate": "2023-09-05"
     }
 ]
