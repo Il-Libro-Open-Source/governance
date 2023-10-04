@@ -11,7 +11,7 @@ Lo stesso vale per le community o per qualsiasi gruppo formatosi attorno a filos
 
 ## Pubblicazione di contenuti
 
-La pubblicazione di contenuti, che siano essi video, slide, articoli o post sui social, è un aspetto fondamentale per la crescita del progetto, di conseguenza è importante che i contenuti pubblicati siano consoni e che rispettino le linee guida del progetto.
+La pubblicazione di contenuti, che siano essi video, slide, articoli o post sui social, è imprescindibile per la crescita del progetto, di conseguenza è importante che i contenuti pubblicati siano consoni e che rispettino le linee guida del progetto.
 
 Per quanto possibile, si ricorda di mantenere un linguaggio semplice, gender-neutral e che rispetti il nostro [Codice di Comportamento](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md).  
 Chiaramente non è possibile controllare ogni singolo contenuto pubblicato o analizzare in tempo reale ogni frase detta durante una discussione, un meetup o una live, ma è importante che ci si ricordi che quando si parla a nome del progetto ogni parola detta è importante e può avere un impatto positivo o negativo sulla percezione del progetto stesso.
