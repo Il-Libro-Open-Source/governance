@@ -26,7 +26,7 @@ Il progetto si basa su alcuni valori fondamentali, che sono:
 
 - `Open Source`: Il progetto vive grazie al supporto di tutti, e tutti possono contribuire in qualsiasi modo ritengano opportuno.
 - `Open Governance`: Il progetto è aperto a tutti, non esistono gerarchie, chiunque può dare una mano. Ciascuno di noi può proporre un cambiamento o una modifica, e tutti possono esprimere la propria opinione.
-- `Collaborazione`: Avere la stessa opinione su tutto, in una qualsiasi community, è piuttosto difficile, se non addirittura impossibile. È importante che tutti possano esprimere la propria opinione e che tutti abbiano come obiettivo comune il miglioramento del progetto e la collaborazione reciproca, a testimonianza della nostra convinzione che insieme possiamo creare qualcosa di più grande della somma delle sue parti.
+- `Collaborazione`: Avere la stessa opinione su tutto, in una qualsiasi community, è piuttosto difficile, se non addirittura impossibile. È importante che tutti possano esprimere la propria opinione e che tutti abbiano come obiettivo comune il miglioramento del progetto e la collaborazione reciproca, a testimonianza della nostra idea che insieme possiamo creare qualcosa di più grande della somma delle sue parti.
 
 ## Esposizione del concetto di Ambassador
 
