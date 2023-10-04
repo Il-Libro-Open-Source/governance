@@ -38,7 +38,7 @@ Nonostante questo, è importante ricordare che il progetto è aperto a tutti e c
 
 Il concetto di Working Group è stato introdotto per identificare dei gruppi di lavoro che si occupano di aspetti specifici del progetto.
 
-È importante ricordare che non esistono gruppi con più o meno poteri di altri, ma che ci sono dei perimetri ben definiti per ognuno di essi e che fare o meno parte di uno Working Group non è un aspetto che definisce la _posizione_ di una persona all'interno del progetto.
+È importante ricordare che non esistono gruppi con più o meno poteri di altri, ma che ci sono dei perimetri ben definiti per ognuno di essi e che fare o meno parte di uno Working Group non è un aspetto che definisce la _posizione gerarchica_ di una persona all'interno del progetto.
 
 ## Partecipazione a eventi
 
