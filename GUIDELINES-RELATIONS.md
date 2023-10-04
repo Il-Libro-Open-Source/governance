@@ -44,6 +44,6 @@ Il concetto di Working Group è stato introdotto per identificare dei gruppi di 
 
 La partecipazione a eventi è un aspetto fondamentale per la crescita del progetto, di conseguenza è importante che le persone che vi partecipino a nome del progetto siano in grado di rappresentarlo al meglio.
 
-Non vengono posti limiti o vincoli alla partecipazione a eventi, meetup e similari, ma è importante che vi sia una previa comunicazione e condivisione di eventuali slide o contenuti che verranno utilizzati durante l'evento riguardo al progetto.
+Non vengono posti limiti o vincoli alla partecipazione a eventi, meetup e similari, ma è importante che vi sia una previa comunicazione e condivisione di eventuali slide o contenuti a tema che verranno utilizzati durante l'evento.
 
 Questo non è un modo per limitare la libertà di espressione delle persone, bensì un modo per garantire che i contenuti siano consoni e che rispettino le linee guida del progetto, oltre che essere una fonte di scambio di informazioni e arricchimento reciproco.
