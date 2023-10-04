@@ -6,7 +6,7 @@ Queste linee guida sono da intendersi come regole _del buon senso_ e di corretta
 
 ## Relazioni con altri progetti o community
 
-Il coinvolgimento delle persone è un aspetto fondamentale che sta alla base di questo progetto, di conseguenza intraprendere relazioni con progetti che sposano la nostra stessa filosofia è un aspetto fondamentale.  
+Il coinvolgimento delle persone è un aspetto fondamentale che sta alla base di questo progetto, di conseguenza è importante relazionarsi con progetti che sposano la nostra stessa filosofia.  
 Lo stesso vale per le community o per qualsiasi gruppo formatosi attorno a filosofie simili alla nostra.
 
 ## Pubblicazione di contenuti
