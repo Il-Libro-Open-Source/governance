@@ -32,7 +32,7 @@ Il progetto si basa su alcuni valori fondamentali, che sono:
 
 Il concetto di Ambassador è stato introdotto per identificare le persone che si impegnano in prima linea nella stesura dei contenuti o di altri aspetti fondamentali del progetto.
 
-Nonostante questo, è importante ricordare che il progetto è aperto a tutti e che non esistono gerarchie o ruoli, e che le persone che ricoprono il ruolo di Ambassador sono più dei _garanti_ delle linee guida e dei valori del progetto che dei _leader_ da seguire.
+Nonostante questo, è importante ricordare che il progetto è aperto a tutti e che non esistono gerarchie, e che le persone che ricoprono il ruolo di Ambassador sono più dei _garanti_ delle linee guida e dei valori del progetto che dei _leader_ da seguire.
 
 ## Esposizione del concetto di Working Group
 
