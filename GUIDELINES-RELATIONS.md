@@ -2,7 +2,7 @@
 
 Questo documento identifica delle semplici e basilari linee guida quando si intrattengono relazioni a nome del progetto.
 
-Queste linee guida sono da intendersi come regole _di buon senso_ e di corretta comunicazione.
+Queste linee guida sono da intendersi come regole _del buon senso_ e di corretta comunicazione.
 
 ## Relazioni con altri progetti o community
 
