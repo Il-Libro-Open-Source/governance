@@ -2,7 +2,7 @@
 
 Una Netiquette (fusione delle parole “Net” (Rete) ed “Ètiquette” (in Francese, buona educazione) è un documento che contiene una serie di regole, che disciplinano il comportamento di un utente all’interno di una community.
 
-#### Di seguito una lista di netiquette per la buona convivenza tra ambassador nel canale Telegram.
+Di seguito una lista di netiquette per la buona convivenza tra ambassador nel canale Telegram.
 
 ### Rispetto reciproco
 
@@ -34,7 +34,7 @@ E disponibile il topic `Off-Topic` per poter condividere tutto ciò che è ester
 
 ### Partecipazione attiva
 
-Cerca di partecipare alle discussioni e ai sondaggi che vengono proposti. Tutti i sondaggi saranno sempre condivisi nel topic `Sondaggi` se saranno sempre approvati secondo le regole di governance.
+Cerca di partecipare alle discussioni e ai sondaggi che vengono proposti. Tutti i sondaggi saranno sempre condivisi nel topic `Sondaggi` che saranno sempre approvati secondo le regole di governance.
 
 ### Responsabilità individuale
 
