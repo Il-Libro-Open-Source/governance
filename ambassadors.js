@@ -45,7 +45,7 @@ const main = async () => {
     names.sort((a, b) => (a.name > b.name ? 1 : b.name > a.name ? -1 : 0));
     
     for (const user of names) {
-        console.log(`-[${user.name}](${user.url}) - (${user.beginDate} - ${user.endDate ?? "Attualmente in carica"})`);
+        console.log(`- [${user.name}](${user.url}) - (${user.beginDate} - ${user.endDate ?? "Attualmente in carica"})`);
     }
 
     console.log(`${names.length} totali`);
