@@ -42,7 +42,7 @@ Il concetto di Working Group è stato introdotto per identificare dei gruppi di 
 
 ## Partecipazione a eventi
 
-La partecipazione a eventi è un aspetto fondamentale per la crescita del progetto, di conseguenza è importante che le persone che partecipano a eventi a nome del progetto siano in grado di rappresentarlo al meglio.
+La partecipazione a eventi è un aspetto fondamentale per la crescita del progetto, di conseguenza è importante che le persone che vi partecipino a nome del progetto siano in grado di rappresentarlo al meglio.
 
 Non vengono posti limiti o vincoli alla partecipazione a eventi, meetup e similari, ma è importante che vi sia una previa comunicazione e condivisione di eventuali slide o contenuti che verranno utilizzati durante l'evento riguardo al progetto.
 
