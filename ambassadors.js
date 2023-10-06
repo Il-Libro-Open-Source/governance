@@ -44,14 +44,13 @@ const main = async () => {
 			console.log(e);
 		}
 	}
-	names.sort((a, b) => (a.name > b.name ? 1 : b.name > a.name ? -1 : 0));
+	names.sort((a, b) => a.name.localeCompare(b.name));
 
 	for (const user of names) {
-		console.log(
-			`- [${user.name}](${user.url}) - (${user.beginDate} - ${
-				user.endDate ?? 'Attualmente in carica'
-			})`
-		);
+		const header = `[${user.name}](${user.url})`;
+		const durationStart = user.beginDate;
+		const durationEnd = user.endDate ?? 'Attualmente in carica';
+		console.log(`- ${header} - (${durationStart} - ${durationEnd})`);
 	}
 
 	console.log(`${names.length} totali`);
