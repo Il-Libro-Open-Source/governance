@@ -1,4 +1,17 @@
 {
-  "singleAttributePerLine": true,
-  "trailingComma": "es5"
+  "overrides": [
+    {
+      "files": ["./*.js", "./*.json"],
+      "options": {
+        "semi": true,
+        "singleAttributePerLine": true,
+        "trailingComma": "es5",
+        "tabWidth": 2,
+        "useTabs": true,
+        "singleQuote": true,
+        "bracketSpacing": true,
+        "arrowParens": "always"
+      }
+    }
+  ]
 }
