@@ -5,6 +5,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnp
 .pnp.js
+package.json
+package-lock.json
 
 # Testing
 coverage/
