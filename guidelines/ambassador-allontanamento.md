@@ -31,3 +31,4 @@ La motivazione di questa regola è quella di garantire un team sempre attivo e p
 ## Procedura di re-inserimento
 
 L'allontanamento non consentirà una nuova candidatura classica e potrà essere revocato solo in seguito ad un nuovo sondaggio con quorum al 50% e maggioranza pari al 75% dei votanti nel team Ambassador.
+Deve trascorrere almeno un mese di calendario tra la data di allontanamento e la data in cui viene presentata la richiesta di re-inserimento.
