@@ -45,4 +45,3 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Sofia Fulgido a.k.a. Fusa](https://github.com/fulgido) - (2023-09-30 - Attualmente in carica)
 - [Stefano Torresi](https://github.com/stefanotorresi) - (2023-09-05 - Attualmente in carica)
 - [Tommaso Allevi](https://github.com/allevo) - (2023-09-30 - Attualmente in carica)
-
