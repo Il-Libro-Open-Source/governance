@@ -1,6 +1,6 @@
 # Lista di Ambassador attualmente in carica
 
-La lista viene compilata in ordine alfabetico.
+La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
 
 - [Alessandro Cappellozza](https://github.com/eppak) - (2023-09-05 - Attualmente in carica)
 - [Alessio](https://github.com/Developpoo) - (2023-09-05 - Attualmente in carica)
