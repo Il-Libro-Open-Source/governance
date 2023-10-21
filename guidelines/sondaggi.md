@@ -36,3 +36,5 @@ Un sondaggio è da considerarsi valido se:
 - Il quorum minimo è stato raggiunto
 - Il sondaggio ha ricevuto un numero di voti pari o superiore al 50% del quorum minimo qualora si trattasse di una situazione _Sì/No_.
 - Qualora il sondaggio contenga più di due opzioni disponibili, l'opzione con più voti che superi il 33% dei votanti verrà considerata valida.
+- Qualora il punto sopra non venga raggiunto, un secondo sondaggio verrà creato con le due opzioni più votate, che durerà 24 ore.
+- Viene posto un limite di 4 opzioni per ridurre al minimo la possibilità di voti dispersivi. In caso di necessità, il Governance Group avvalerà la possibilità di aumentare il numero di opzioni.
