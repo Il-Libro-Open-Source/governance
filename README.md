@@ -11,7 +11,7 @@ Attualmente è composto da:
 ## Struttura file e cartelle
 
 Il repository è strutturato in cartelle, ognuna delle quali contiene un file `README.md` che ne descrive il contenuto.
- 
+
 Questa è lista dettagliata delle cartelle
 
 - `events`: contiene le note degli eventi a cui il progetto ha partecipato, organizzate per data, la quantità si consiglia di creare delle sottocartelle per working group e per anno
