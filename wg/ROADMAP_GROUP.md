@@ -6,13 +6,13 @@ Il Roadmap Group è responsabile della definizione e della pubblicazione della r
 
 ## Compiti principali
 
-1. *Creazione della Roadmap*: Il Roadmap Group stabilisce e fissa i passaggi critici che devono essere completati per il successo del progetto. Questi passaggi includono la suddivisione del lavoro in capitoli, la definizione di obiettivi intermedi, la designazione di date di inizio e fine per i lavori su ciascun capitolo, e l'identificazione dei principali traguardi.
+1. _Creazione della Roadmap_: Il Roadmap Group stabilisce e fissa i passaggi critici che devono essere completati per il successo del progetto. Questi passaggi includono la suddivisione del lavoro in capitoli, la definizione di obiettivi intermedi, la designazione di date di inizio e fine per i lavori su ciascun capitolo, e l'identificazione dei principali traguardi.
 
-2. *Monitoraggio dell'Avanzamento*: Il gruppo è responsabile di tenersi costantemente aggiornato sull'avanzamento dei lavori. Ciò include il monitoraggio dei progressi compiuti dai vari gruppi coinvolti nel processo di creazione del libro.
+2. _Monitoraggio dell'Avanzamento_: Il gruppo è responsabile di tenersi costantemente aggiornato sull'avanzamento dei lavori. Ciò include il monitoraggio dei progressi compiuti dai vari gruppi coinvolti nel processo di creazione del libro.
 
-3. *Aggiornamenti della Roadmap*: In base all'evolversi del progetto, il Roadmap Group apporta le modifiche necessarie alla roadmap, inclusi cambiamenti nelle date di rilascio e negli obiettivi intermedi. Queste modifiche vengono condivise con tutto il team.
+3. _Aggiornamenti della Roadmap_: In base all'evolversi del progetto, il Roadmap Group apporta le modifiche necessarie alla roadmap, inclusi cambiamenti nelle date di rilascio e negli obiettivi intermedi. Queste modifiche vengono condivise con tutto il team.
 
-4. *Autorità sulla Pianificazione*: Il Roadmap Group ha l'autorità di escludere o includere parti del libro esclusivamente per ragioni di tempistiche ed avanzamento dei lavori. Queste decisioni non riguardano il contenuto del libro, ma piuttosto il rispetto delle scadenze e la gestione delle risorse.
+4. _Autorità sulla Pianificazione_: Il Roadmap Group ha l'autorità di escludere o includere parti del libro esclusivamente per ragioni di tempistiche ed avanzamento dei lavori. Queste decisioni non riguardano il contenuto del libro, ma piuttosto il rispetto delle scadenze e la gestione delle risorse.
 
 ## Composizione del gruppo
 
