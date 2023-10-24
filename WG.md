@@ -93,3 +93,11 @@ Tutto ciò che riguarda la _gestione_, comunque la si intenda, passerà da qui. 
 
 Da notare che il Governance Group non avrà voce in capitolo sulle scelte di alcun altro gruppo purché queste siano nel loro perimetro e rispettino le nostre linee guida.  
 Per capirci, i membri del governance group non potranno rifiutarsi di condividere e accettare la decisione del drafting group nel cambiare le linee guida sulla stesura dei contenuti.
+
+## Roadmap Group
+
+_Presieduto da [Nome Cognome], [Nome Cognome], [Nome Cognome]._
+
+Il Roadmap Group è responsabile della definizione e della pubblicazione della roadmap generale del progetto, rappresentata sotto forma di file ROADMAP.md nella codebase del libro. Questo documento funge da guida per l'intero team, fornendo una pianificazione chiara dei passaggi chiave che devono essere seguiti per portare a termine il progetto con successo.
+
+Per maggiori dettagli sul Roadmap Group fare riferimento al [regolamento interno del gruppo](ROADMAP_GROUP.md).
