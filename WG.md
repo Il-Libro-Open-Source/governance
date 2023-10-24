@@ -93,3 +93,11 @@ Tutto ciò che riguarda la _gestione_, comunque la si intenda, passerà da qui. 
 
 Da notare che il Governance Group non avrà voce in capitolo sulle scelte di alcun altro gruppo purché queste siano nel loro perimetro e rispettino le nostre linee guida.  
 Per capirci, i membri del governance group non potranno rifiutarsi di condividere e accettare la decisione del drafting group nel cambiare le linee guida sulla stesura dei contenuti.
+
+## Content Group
+
+Presieduto da [Nome Cognome], [Nome Cognome], [Nome Cognome].
+
+Il Content Group è responsabile dell'originalità e dell'attendibilità dei contenuti presenti nel libro. Questo gruppo ha il compito di applicare procedure di fact-checking per garantire che tutte le informazioni siano accurate e verificabili. Inoltre, si assicura che non siano state violate eventuali proprietà intellettuali altrui e che gli strumenti di intelligenza artificiale siano utilizzati in modo appropriato.
+
+Per maggiori dettagli sul Content Group fare riferimento al [regolamento interno del grouppo](wg/CONTENT_GROUP.md).
