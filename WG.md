@@ -100,4 +100,4 @@ _Presieduto da [Nome Cognome], [Nome Cognome], [Nome Cognome]._
 
 Il Release Group è incaricato di garantire la qualità del risultato finale, ovvero il libro. Questo gruppo è responsabile di coordinare e assicurare che tutti i passaggi di verifica siano stati applicati in modo accurato prima di ogni rilascio del libro.
 
-Per maggiori dettagli sul Content Group fare riferimento al [regolamento interno del gruppo](wg/RELEASE_GROUP.md).
+Per maggiori dettagli sul Release Group fare riferimento al [regolamento interno del gruppo](wg/RELEASE_GROUP.md).
