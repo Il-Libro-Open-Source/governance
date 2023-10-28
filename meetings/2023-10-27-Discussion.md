@@ -34,7 +34,7 @@ La board la teniamo in beta fino a natale.
 
 ## Discussione FAQ
 
-Prendere il mano il task FAQ e domande frequenti in generale.
+Prendere in mano il task FAQ e domande frequenti in generale.
 
 https://github.com/Il-Libro-Open-Source/book/discussions/categories/q-a
 
