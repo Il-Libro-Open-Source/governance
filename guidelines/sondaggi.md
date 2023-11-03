@@ -24,8 +24,7 @@ Questo tempo è da ritenersi sufficiente qualora venga raggiunto il quorum minim
 
 ## Quorum
 
-Il quorum minimo per la validità di un sondaggio è fissato al 20% (Arrotondato per difetto) del totale dei membri del team Ambassador.  
-Es. 20% di 10 membri = 2 membri, 20% di 41 membri = 8 membri.
+Il quorum minimo per la validità di un sondaggio è fissato al 33% (Arrotondato per difetto) del totale dei membri del team Ambassador.  
 
 Qualora siano presenti motivate assenze, la persona assente verrà considerata "membro votante" a votazione nulla, concorrendo al quorum totale. Questo per evitare che un sondaggio venga invalidato per l'eventuale eccessiva concomitanza di assenze.
 
@@ -35,6 +34,6 @@ Un sondaggio è da considerarsi valido se:
 
 - Il quorum minimo è stato raggiunto
 - Il sondaggio ha ricevuto un numero di voti pari o superiore al 50% del quorum minimo qualora si trattasse di una situazione _Sì/No_.
-- Qualora il sondaggio contenga più di due opzioni disponibili, l'opzione con più voti che superi il 33% dei votanti verrà considerata valida.
-- Qualora il punto sopra non venga raggiunto, un secondo sondaggio verrà creato con le due opzioni più votate, che durerà 24 ore.
+- Qualora il sondaggio contenga più di due opzioni disponibili, l'opzione con più voti che superi il 50% dei votanti verrà considerata valida.
+- Qualora il punto sopra non venga raggiunto o vi sia una situazione di parità, un secondo sondaggio verrà creato con le due opzioni più votate, che durerà 24 ore.
 - Viene posto un limite di 4 opzioni per ridurre al minimo la possibilità di voti dispersivi. In caso di necessità, il Governance Group avvalerà la possibilità di aumentare il numero di opzioni.
