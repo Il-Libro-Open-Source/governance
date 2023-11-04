@@ -44,5 +44,5 @@ Un sondaggio è da considerarsi valido se:
 
 - Il quorum minimo è stato raggiunto.
 - L'opzione con più voti supera il 50% dei votanti.
-- Qualora il punto sopra non venga raggiunto o vi sia una situazione di parità, un secondo sondaggio verrà creato con le due opzioni più votate, che durerà 24 ore.
+- Qualora il punto sopra non venga raggiunto o vi sia una situazione di parità, un secondo sondaggio verrà creato con le due opzioni più votate, che durerà 24 ore e che non necessiterà di un quorum minimo.
 - Viene posto un limite di 4 opzioni (Che diventano 6 con le due opzioni ad ampio spettro citate sopra) per ridurre al minimo la possibilità di voti dispersivi. In caso di necessità, il _Governance Group_ avvalerà la possibilità di aumentare il numero di opzioni.
