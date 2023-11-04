@@ -11,6 +11,21 @@ Gli Working Group sono a partecipazione esclusiva degli Ambassador.
 Un Working Group nasce da un'esigenza specifica del progetto.  
 Può essere proposto dal Governance Group o da un Ambassador che lo propone al Governance Group, che deve ritenerlo opportuno.
 
+## Come si entra in un Working Group?
+
+Requisito fondamentale per entrare in un Working Group è essere Ambassador.  
+Ogni Working Group è autonomo nell'apertura di nuovi posti disponibili - suggeriamo di mantenersi sempre in numero dispari così da poter votare a maggioranza se necessario -, ma dovrà necessariamente comunicarlo su questo repository o su Telegram, per dare libertà a tutti gli Ambassador di candidarsi.
+
+Anche per quanto concerne i tempi di risposta e di valutazione delle candidature, ogni Working Group è autonomo.
+
+Unica regola viene fatta per i criteri di inserimento: L'inserimento di un nuovo membro in un Working Group deve essere definito all'unanimità. Ci riserviamo di rivedere questa regola in futuro qualora si rendesse necessario.
+
+Un'eventuale rimozione di un membro di un Working Group deve essere decisa internamente al gruppo stesso e condivisa in modo unanime dal gruppo, ad esclusione del membro in questione.
+
+## Come si esce da un Working Group?
+
+Per uscire da un Working Group è sufficiente comunicarlo al gruppo stesso e al Governance Group, preferibilmente motivando la propria decisione per permettere al gruppo di migliorarsi, oltre che dando un tempo di preavviso ragionevole per poter trovare un sostituto o fare un passaggio di consegne coerente.
+
 # Working Group attivi
 
 ## Drafting Group
