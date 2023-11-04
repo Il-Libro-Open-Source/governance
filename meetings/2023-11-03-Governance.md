@@ -20,7 +20,7 @@ Si conclude la discussione sull'adozione di ulteriori canali social, confermando
 
 ## Traduzione del libro
 
-[???](https://github.com/Il-Libro-Open-Source/governance/issues/16)
+[Issue gestione traduzioni](https://github.com/Il-Libro-Open-Source/governance/issues/16)
 Si decide che è senza dubbio utile la traduzione, ma in un prossimo futuro. Avviamo le attività appena ci sarà una versione più completa del libro.
 
 ## Sondaggi
