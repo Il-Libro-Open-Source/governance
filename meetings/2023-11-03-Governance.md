@@ -53,7 +53,7 @@ Per quanto concerne la segnalazione e rimozione di contenuti che violino il copy
 ## WG Roadmap Group
 
 https://github.com/Il-Libro-Open-Source/governance/pull/36
-Il governance group nha apprezzato l'idea di un ente che mantenga ordine e chiarezza nello sviluppo del progetto tramite una roadmap. Tuttavia, si è concordato che sarebbe più efficace avere un ruolo aggiuntivo all'interno del governance group per questa funzione. Quindi, invece di creare un Roadmap Group separato, i compiti di definire, pubblicare e aggiornare una ROADMAP.md verranno assunti da un membro aggiuntivo nel governance group, e i contenuti della roadmap, una volta approvati, verranno integrati.
+Il governance group ha apprezzato l'idea di un ente che mantenga ordine e chiarezza nello sviluppo del progetto tramite una roadmap. Tuttavia, si è concordato che sarebbe più efficace avere un ruolo aggiuntivo all'interno del governance group per questa funzione. Quindi, invece di creare un Roadmap Group separato, i compiti di definire, pubblicare e aggiornare una ROADMAP.md verranno assunti da un membro aggiuntivo nel governance group, e i contenuti della roadmap, una volta approvati, verranno integrati.
 
 ## WG Release Group
 
