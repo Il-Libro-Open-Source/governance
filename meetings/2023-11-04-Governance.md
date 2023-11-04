@@ -10,7 +10,7 @@
 
 ## Punti del giorno
 
-Progressione della discussione generale sulle idee elaborate dall'ultimo Governance Group Meeting.  
+Progressione della discussione generale sulle idee elaborate dall'ultimo Governance Group Meeting.
 
 ## La figura dell'Ambassador
 
@@ -25,3 +25,15 @@ Si definisce necessaria la nascita di un gruppo di _Contributor_ ancora da defin
 ## Definizione del Contributor
 
 @davideimola svilupperà una proposta per la definizione di _Contributor_ e le regole di nomina e spostamento da Contributor ad Ambassador.
+
+## Linee guida Working Group
+
+Come già accennato in data 2023-11-03, viene approvata la proposta di @Cadienvan per la definizione delle linee guida di ingresso e uscita da un Working Group.
+
+## Guideline sondaggi
+
+Con le dovute modifiche si decide di approvare le guideline dei sondaggi così come proposte da @Cadienvan.
+
+## Guideline Allontanamento Ambassador
+
+Con le dovute modifiche si decide di approvare le guideline dei sondaggi così come proposte da @Cadienvan.
