@@ -93,3 +93,11 @@ Tutto ciò che riguarda la _gestione_, comunque la si intenda, passerà da qui. 
 
 Da notare che il Governance Group non avrà voce in capitolo sulle scelte di alcun altro gruppo purché queste siano nel loro perimetro e rispettino le nostre linee guida.  
 Per capirci, i membri del governance group non potranno rifiutarsi di condividere e accettare la decisione del drafting group nel cambiare le linee guida sulla stesura dei contenuti.
+
+### Roadmap
+
+Il Governance Group si occuperà inoltre di stilare e mantenere aggiornata la roadmap del progetto, che sarà pubblicata su questo repository.
+
+La roadmap sarà pubblica e accessibile a tutti, e sarà aggiornata in base alle decisioni prese durante la vita del progetto.
+
+Attualmente la roadmap è in fase di stesura e verrà pubblicata non appena sarà pronta e verrà nominata una figura atta a gestirla.
