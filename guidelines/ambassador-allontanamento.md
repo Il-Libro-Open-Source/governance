@@ -15,9 +15,6 @@ Un membro del team Ambassador può essere allontanato per i seguenti motivi:
 - Mancato rispetto del [Codice di Comportamento](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md). In tal caso, verrà richiesto un _sondaggio standard infra-gruppo_ nel Governance Group.
 - Violazione delle linee guida imposte dal Communications Group all'interno del gruppo Telegram. In tal caso, verrà richiesto un _sondaggio standard infra-gruppo_.
 - Violazione delle linee guida imposte dal Relations Group all'interno del perimetro di azione di quest'ultimo (Conferenze, post pubblici, ecc.). In tal caso, verrà richiesto un _sondaggio standard infra-gruppo_.
-- Non partecipazione ad almeno il 50% dei sondaggi proposti in un periodo di 30 giorni senza giustificati motivi. In tal caso, sarà il gruppo stesso a decidere se allontanare o meno la figura con un sondaggio tra i propri membri con quorum al 50% e maggioranza semplice della durata di 48 ore.
-- Mancata assegnazione di un capitolo entro 30 giorni dalla data di nomina. In tal caso, verrà fatta una comunicazione da parte del _Governance Group_ alla figura interessata, che avrà 24 ore di tempo per assegnarsi un capitolo.
-- Mancata stesura di contenuti propri o review di contenuti altrui nei capitoli assegnati entro 60 giorni dall'ultima stesura e/o review. In tal caso, verrà fatta una comunicazione da parte del _Governance Group_ alla figura interessata, che avrà 24 ore di tempo per dare una motivazione plausibile. A risposta ricevuta, verrà richiesto un _sondaggio standard infra-gruppo_ per la sua rimozione. Questa regola non si applica ai membri del team Ambassador assegnati a capitoli che non hanno ricevuto alcuna proposta di modifica.
 
 ## Indice di gradimento
 
