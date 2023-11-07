@@ -46,7 +46,21 @@ const main = async () => {
 	}
 	names.sort((a, b) => a.name.localeCompare(b.name));
 
-	for (const user of names) {
+	const namesCurrentlyActive = names.filter((user) => !user.endDate);
+	const namesCurrentlyUnactive = names.filter((user) => user.endDate);
+
+	console.log('Ambassador attualmente in carica:');
+	for (const user of namesCurrentlyActive) {
+		const header = `[${user.name}](${user.url})`;
+		const durationStart = user.beginDate;
+		const durationEnd = user.endDate ?? 'Attualmente in carica';
+		console.log(`- ${header} - (${durationStart} - ${durationEnd})`);
+	}
+
+	console.log('---');
+
+	console.log('Ambassador emeriti:');
+	for (const user of namesCurrentlyUnactive) {
 		const header = `[${user.name}](${user.url})`;
 		const durationStart = user.beginDate;
 		const durationEnd = user.endDate ?? 'Attualmente in carica';

@@ -16,7 +16,6 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Emanuele Bartolesi](https://github.com/kasuken) - (2023-09-06 - Attualmente in carica)
 - [Emilio Junior Francischetti](https://github.com/frnmjn) - (2023-09-30 - Attualmente in carica)
 - [Enrico Maria Cestari](https://github.com/EMCestari) - (2023-09-06 - Attualmente in carica)
-- [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - Attualmente in carica)
 - [Francesco Sciuti](https://github.com/fsciuti) - (2023-09-30 - Attualmente in carica)
 - [Gennaro Marra](https://github.com/Nobu89) - (2023-09-30 - Attualmente in carica)
 - [Giuppi](https://github.com/giuppidev) - (2023-09-30 - Attualmente in carica)
@@ -45,3 +44,9 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Sofia Fulgido a.k.a. Fusa](https://github.com/fulgido) - (2023-09-30 - Attualmente in carica)
 - [Stefano Torresi](https://github.com/stefanotorresi) - (2023-09-05 - Attualmente in carica)
 - [Tommaso Allevi](https://github.com/allevo) - (2023-09-30 - Attualmente in carica)
+
+# Lista di Ambassador Emeriti
+
+La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
+
+- [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - 2023-11-06)
