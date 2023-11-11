@@ -32,7 +32,7 @@ Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elenca
   - Contribuire al progetto o alle discussioni della community (e.g. riunioni, GitHub discussions)
 - Aver letto la linee guida per le community, le regole e il documento sui Contributor
 - Essere sponsorizzato da 2 (da valutare il numero) Ambassador attivi
-- Aprire un issue su questo repository utilizzando il template
+- Aprire una issue su questo repository utilizzando il template
   - Assicuratevi che i vostri sponsor siano @menzionati sull'issue aperto così che possano rispondere
   - Gli sponsor dovranno rispondere con un :+1: alla issue per accettare l'ingresso dell'utente come ambassador
 - Tutti gli ambassador saranno comunque liberi di intervenire nella discussione commentando e dando una loro personale visione che sia essa positiva o negativa
