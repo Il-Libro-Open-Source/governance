@@ -17,7 +17,9 @@ I nuovi contributors dovrebbero essere accolti nella community dagli ambassador 
 
 I Contributors sono membri costantemente attivi della community. Questi sono tenuti a rimanere attivi nella community per mantenere il livello.
 
-Questi dimostrano di aderire ai principi di questo documento, di avere familiarità con l'organizzazione del progetto, i ruoli, le politiche, le procedure, le convenzioni, ecc. Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elencati di seguito.
+Questi dimostrano di aderire ai principi di questo documento, di avere familiarità con l'organizzazione del progetto, i ruoli, le politiche, le procedure, le convenzioni, ecc.
+
+Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elencati di seguito.
 
 **Definito da**: Membro dell'organizzazione GitHub di Il Libro Open Source in triage e nel team `@Il-Libro-Open-Source/Contributor` e l'ingresso nella chat Telegram della community dedicata ai Contributor.
 
