@@ -1,6 +1,6 @@
 # Laravelday Verona
 
-Il GruSP ha fornito uno spazio di circa 15 minuti succesivo alla pausa pranzo per presentare il progetto.
+Il GruSP ha fornito uno spazio di 10 minuti successivo alla pausa pranzo per presentare il progetto.
 
 ## Quando
 
@@ -8,9 +8,9 @@ Il GruSP ha fornito uno spazio di circa 15 minuti succesivo alla pausa pranzo pe
 
 ## Chi
 
-@Cadienvan
-@eppak
+@Cadienvan @eppak
 
 ## Note
 
 I due partecipanti sono stati selezionati _per logica_ essendo già presenti all'evento come speaker (@Cadienvan) e co-organizzatore (@eppak).
+Il feedback è stato ottimo, abbiamo avuto all'incirca 15 star su Github e una persona si è detta estremamente interessata a diventare un contributor costante.
