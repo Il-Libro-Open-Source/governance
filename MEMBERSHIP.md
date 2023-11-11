@@ -51,7 +51,7 @@ Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elenca
 
 Gli Ambassadors sono membri costantemente attivi della community. Questi membri sono già dei contributor molto attivi e che desiderano prendere delle responsabilità ulteriori nei riguardi del progetto.
 
-**Definito da**: Inserimento nel Team Ambassador di GitHub con i poteri di write sull'organizzazione e accesso al team GH `@Il-Libro-Open-Source/Ambassadors`.
+**Definito come**: Membro dell'organizzazione GitHub di Il Libro Open Source in write e nel team `@Il-Libro-Open-Source/Ambassador`, membro chat Telegram della community dedicata agli Ambassador.
 
 ### Requisiti
 
