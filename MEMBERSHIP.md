@@ -43,7 +43,7 @@ Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elenca
 - Rispondere ai problemi e alle relative PR o issue
 - Dare assistenza a nuovi membri della community
 - Contribuire attivamente alla scrittura di capitoli interni al libro Open Source
-- Gli Ambassador possono approvare le PR aperte
+- Approvazione delle PR aperte. Il proprio contributo verrà conteggiato ai fini dell'inserimento o esclusione dei contenuti nel libro, alla pari di quello di un Ambassador
 - Accesso al canale Telegram dei contributors
 - Poter richiedere di diventare Ambassador
 
