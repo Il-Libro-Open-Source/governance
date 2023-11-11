@@ -64,4 +64,4 @@ Gli Ambassadors sono membri costantemente attivi della community. Questi membri 
 - Accesso all'organizzazione GitHub in write
 - Poter proporsi come responsabile di uno o più capitoli del libro Open Source
 - Poter proporsi all'interno di uno dei working group
-- Gli Ambassador possono mergiare le PR
+- Possibilità di fare merge delle PR
