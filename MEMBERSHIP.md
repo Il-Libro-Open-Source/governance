@@ -57,7 +57,7 @@ Gli Ambassadors sono membri costantemente attivi della community. Questi membri 
 
 - Contributor da almeno 3 mesi
 - Contributor attivo di almeno 1 capitolo del Libro
-- Potrebbe autonominarsi o venir nominato da altri ambassador
+- Un Contributor può diventare Ambassador autocandidandosi oppure deve venir nominato da altri ambassador, comunque dovrebbe avere almeno due Ambassador sponsor per procedere alla richiesta
 
 ### Responsabilità e privilegi
 
