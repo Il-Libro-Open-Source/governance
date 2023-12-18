@@ -100,7 +100,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone che hanno avu
 
 ## Governance Group
 
-_Presieduto da Michael Di Prisco, Michel Murabito, Davide Imola, Enrico Maria Cestari._
+_Presieduto da Michael Di Prisco, Michel Murabito, Davide Imola, Enrico Maria Cestari, Marco Perugini._
 
 Questo gruppo si occuperà di tutto ciò che concerne la gestione del progetto, ovvero le linee guida di nomina e allontanamento degli ambassador, la gestione degli altri Working Group (Inserimento o spostamento di membri), l'organizzazione dei meeting, ecc.
 
