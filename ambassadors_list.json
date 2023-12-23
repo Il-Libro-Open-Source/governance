@@ -20,11 +20,6 @@
 		"endDate": null
 	},
 	{
-		"user": "rafleze",
-		"beginDate": "2023-09-30",
-		"endDate": null
-	},
-	{
 		"user": "giuppidev",
 		"beginDate": "2023-09-30",
 		"endDate": null
@@ -51,21 +46,6 @@
 	},
 	{
 		"user": "gregoriopalama",
-		"beginDate": "2023-09-30",
-		"endDate": null
-	},
-	{
-		"user": "pantarei-mb",
-		"beginDate": "2023-09-30",
-		"endDate": null
-	},
-	{
-		"user": "fsciuti",
-		"beginDate": "2023-09-30",
-		"endDate": null
-	},
-	{
-		"user": "AngyDev",
 		"beginDate": "2023-09-30",
 		"endDate": null
 	},
@@ -121,11 +101,6 @@
 	},
 	{
 		"user": "AngeloAvv",
-		"beginDate": "2023-09-05",
-		"endDate": null
-	},
-	{
-		"user": "Cb040719",
 		"beginDate": "2023-09-05",
 		"endDate": null
 	},
@@ -206,11 +181,6 @@
 	},
 	{
 		"user": "storrisi",
-		"beginDate": "2023-09-05",
-		"endDate": null
-	},
-	{
-		"user": "stefanotorresi",
 		"beginDate": "2023-09-05",
 		"endDate": null
 	}
