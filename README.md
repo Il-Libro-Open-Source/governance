@@ -4,6 +4,7 @@ Questo repository viene utilizzato per collezionare ciò che riguarda la governa
 Attualmente è composto da:
 
 - [Lista di Ambassador attualmente in carica](AMBASSADOR.md)
+- [Lista di Contributor attualmente in carica](CONTRIBUTOR.md)
 - [Definizione degli Working Group](WG.md)
 - [Note dei meeting degli Ambassador](./meetings/)
 - [Eventi al quale il progetto ha partecipato](./events/)
