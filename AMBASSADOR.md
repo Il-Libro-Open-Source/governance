@@ -35,7 +35,6 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Simone Gentili](https://github.com/sensorario) - (2023-09-05 - Attualmente in carica)
 - [Simone Gizzi](https://github.com/guizzo) - (2023-09-05 - Attualmente in carica)
 - [Simone Torrisi](https://github.com/storrisi) - (2023-09-05 - Attualmente in carica)
-- [sistella](https://github.com/sistella) - (2023-09-30 - Attualmente in carica)
 - [Sofia Fulgido a.k.a. Fusa](https://github.com/fulgido) - (2023-09-30 - Attualmente in carica)
 - [Tommaso Allevi](https://github.com/allevo) - (2023-09-30 - Attualmente in carica)
 
@@ -44,3 +43,4 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
 
 - [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - 2023-11-06)
+- [sistella](https://github.com/sistella) - (2023-09-30 - 2024-01-06)
