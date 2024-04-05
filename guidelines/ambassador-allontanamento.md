@@ -18,7 +18,7 @@ Un membro del team Ambassador può essere allontanato per i seguenti motivi:
 
 ## Indice di gradimento
 
-Ogni trimestre verrà effettuato un sondaggio contenente l'intera lista dei membri del team Ambassador.  
+Ogni semestre verrà effettuato un sondaggio contenente l'intera lista dei membri del team Ambassador.  
 Il sondaggio sarà a risposta multipla e avrà una durata di 15 giorni. I risultati del sondaggio verranno visualizzati - e condivisi in maniera anonimizzata - dal Governance Group in un apposito meeting nel primo momento utile passati i giorni di votazione.
 Qualora un membro del team Ambassador non raggiunga il 50% di gradimento, verrà fatta una valutazione da parte del Governance Group che, a maggioranza semplice, deciderà se allontanare o meno la persona dal team Ambassador.
 La mancanza di votazione in questo sondaggio senza giustificati motivi verrà considerata come mancanza di partecipazione e la figura subirà la medesima valutazione di cui sopra da parte del Governance Group.
