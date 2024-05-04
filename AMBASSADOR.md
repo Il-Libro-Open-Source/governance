@@ -12,7 +12,6 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Corrado Petrelli](https://github.com/corradopetrelli) - (2023-09-05 - Attualmente in carica)
 - [Davide Imola](https://github.com/davideimola) - (2023-09-05 - Attualmente in carica)
 - [Emanuele Bartolesi](https://github.com/kasuken) - (2023-09-06 - Attualmente in carica)
-- [Emilio Junior Francischetti](https://github.com/frnmjn) - (2023-09-30 - Attualmente in carica)
 - [Enrico Maria Cestari](https://github.com/EMCestari) - (2023-09-06 - Attualmente in carica)
 - [Gennaro Marra](https://github.com/Nobu89) - (2023-09-30 - Attualmente in carica)
 - [Giuppi](https://github.com/giuppidev) - (2023-09-30 - Attualmente in carica)
@@ -44,3 +43,4 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 
 - [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - 2023-11-06)
 - [sistella](https://github.com/sistella) - (2023-09-30 - 2024-01-06)
+- [Emilio Junior Francischetti](https://github.com/frnmjn) - (2023-09-30 - 2024-01-28)
