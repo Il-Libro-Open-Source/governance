@@ -3,12 +3,9 @@
 La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
 
 - [Alessandro Cappellozza](https://github.com/eppak) - (2023-09-05 - Attualmente in carica)
-- [Alessio](https://github.com/Developpoo) - (2023-09-05 - Attualmente in carica)
 - [Andrea Guzzo](https://github.com/JeyDi) - (2023-09-05 - Attualmente in carica)
 - [Angelo Cassano](https://github.com/AngeloAvv) - (2023-09-05 - Attualmente in carica)
-- [Barbara Galasso](https://github.com/bananabarb) - (2023-09-30 - Attualmente in carica)
 - [Brian Atzori](https://github.com/BrianAtzori) - (2023-09-30 - Attualmente in carica)
-- [Christian Cannata](https://github.com/christiancannata) - (2023-09-30 - Attualmente in carica)
 - [Corrado Petrelli](https://github.com/corradopetrelli) - (2023-09-05 - Attualmente in carica)
 - [Davide Imola](https://github.com/davideimola) - (2023-09-05 - Attualmente in carica)
 - [Emanuele Bartolesi](https://github.com/kasuken) - (2023-09-06 - Attualmente in carica)
@@ -27,7 +24,6 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Nicola Erario](https://github.com/nicolaerario) - (2023-09-05 - Attualmente in carica)
 - [Paolo Martinoli](https://github.com/ugho16) - (2023-09-30 - Attualmente in carica)
 - [Pasquale](https://github.com/halfpass25) - (2023-09-30 - Attualmente in carica)
-- [passasooz](https://github.com/passasooz) - (2023-09-05 - Attualmente in carica)
 - [Ricardo Antonio Piana](https://github.com/devnuli) - (2023-09-30 - Attualmente in carica)
 - [Saleiux](https://github.com/Saleiux) - (2023-09-30 - Attualmente in carica)
 - [Serena Sensini](https://github.com/serenasensini) - (2023-09-05 - Attualmente in carica)
@@ -41,6 +37,10 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 
 La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
 
-- [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - 2023-11-06)
-- [sistella](https://github.com/sistella) - (2023-09-30 - 2024-01-06)
+- [Alessio](https://github.com/Developpoo) - (2023-09-05 - Attualmente in carica)
+- [Barbara Galasso](https://github.com/bananabarb) - (2023-09-30 - 2024-07-18)
+- [Christian Cannata](https://github.com/christiancannata) - (2023-09-30 - 2024-07-18)
 - [Emilio Junior Francischetti](https://github.com/frnmjn) - (2023-09-30 - 2024-01-28)
+- [Francesco Bianco](https://github.com/francescobianco) - (2023-09-05 - 2023-11-06)
+- [passasooz](https://github.com/passasooz) - (2023-09-05 - 2024-07-18)
+- [sistella](https://github.com/sistella) - (2023-09-30 - 2024-01-06)
