@@ -1,4 +1,4 @@
-# Community Membership
+g# Community Membership
 
 Questo documento illustra le varie responsabilità dei ruoli di un contributor nel libro.
 
@@ -44,7 +44,7 @@ Le aspettative, le responsabilità e i requisiti specifici dei ruoli sono elenca
 - Dare assistenza a nuovi membri della community
 - Contribuire attivamente alla scrittura di capitoli interni al libro Open Source
 - Approvazione delle PR aperte. Il proprio contributo verrà conteggiato ai fini dell'inserimento o esclusione dei contenuti nel libro, alla pari di quello di un Ambassador
-- Accesso al canale Telegram dei contributors
+- Accesso al canale Telegram per Ambassador
 - Poter richiedere di diventare Ambassador
 
 # Ambassadors
