@@ -111,8 +111,6 @@ Per capirci, i membri del governance group non potranno rifiutarsi di condivider
 
 ### Roadmap
 
-Il Governance Group si occuperà inoltre di stilare e mantenere aggiornata la roadmap del progetto, che sarà pubblicata su questo repository.
+Il Governance Group si occupa inoltre di stilare e mantenere aggiornata la roadmap del progetto, che sarà pubblicata sul repository del libro.
 
-La roadmap sarà pubblica e accessibile a tutti, e sarà aggiornata in base alle decisioni prese durante la vita del progetto.
-
-Attualmente la roadmap è in fase di stesura e verrà pubblicata non appena sarà pronta e verrà nominata una figura atta a gestirla.
+La roadmap è pubblica e accessibile a tutti, ed è aggiornata in base all'andamento dei capitoli e delle decisioni prese durante la vita del progetto.
