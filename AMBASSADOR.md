@@ -23,7 +23,6 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Ricardo Antonio Piana](https://github.com/devnuli) - (2023-09-30 - Attualmente in carica)
 - [Serena Sensini](https://github.com/serenasensini) - (2023-09-05 - Attualmente in carica)
 - [Simone Gentili](https://github.com/sensorario) - (2023-09-05 - Attualmente in carica)
-- [Simone Gizzi](https://github.com/guizzo) - (2023-09-05 - Attualmente in carica)
 - [Simone Torrisi](https://github.com/storrisi) - (2023-09-05 - Attualmente in carica)
 - [Sofia Fulgido a.k.a. Fusa](https://github.com/fulgido) - (2023-09-30 - Attualmente in carica)
 - [Tommaso Allevi](https://github.com/allevo) - (2023-09-30 - Attualmente in carica)
@@ -43,4 +42,5 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Pasquale](https://github.com/halfpass25) - (2023-09-30 - 2024-07-30)
 - [passasooz](https://github.com/passasooz) - (2023-09-05 - 2024-07-18)
 - [Saleiux](https://github.com/Saleiux) - (2023-09-30 - 2024-07-30)
+- [Simone Gizzi](https://github.com/guizzo) - (2023-09-05 - 2024-12-29)
 - [sistella](https://github.com/sistella) - (2023-09-30 - 2024-01-06)
