@@ -74,7 +74,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone attive su Git
 
 ## Relations Group
 
-_Presieduto da Michael Di Prisco, Guido Penta, Andrea Guzzo._
+_Presieduto da Michael Di Prisco, Andrea Guzzo._
 
 Questo gruppo si occuperà delle relazioni con l'esterno, quindi tutto ciò che riguarda l'aspetto social del libro, dai post su LinkedIn alla valutazione delle opportunità di collaborazione con le community, partecipazione alle conferenze e così via.
 
