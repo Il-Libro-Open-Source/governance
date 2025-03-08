@@ -30,7 +30,7 @@ Per uscire da un Working Group è sufficiente comunicarlo al gruppo stesso e al 
 
 ## Drafting Group
 
-_Presieduto da Serena Sensini, Andrea Guzzo, Angelo Cassano._
+_Presieduto da Serena Sensini, Angelo Cassano._
 
 Questo gruppo si occuperà di dettare e far rispettare le linee guida di stesura dei testi, sia dal punto di vista della grammatica che della forma.
 
@@ -66,7 +66,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone attive nel gr
 
 ## Discussion Group
 
-_Presieduto da Andrea Guzzo, Simone Gizzi, Alessandro Cappellozza._
+_Presieduto da Alessandro Cappellozza._
 
 Questo gruppo si occuperà della comunicazione che avviene all'interno del repository, tramite issues, discussions e commenti su tutti i repo. Chi farà parte del gruppo si occuperà di stabilire, manutenere e far rispettare le linee guida di comportamento all'interno dei repository dell'organizzazione.
 
@@ -74,7 +74,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone attive su Git
 
 ## Relations Group
 
-_Presieduto da Michael Di Prisco, Andrea Guzzo._
+_Presieduto da Michael Di Prisco._
 
 Questo gruppo si occuperà delle relazioni con l'esterno, quindi tutto ciò che riguarda l'aspetto social del libro, dai post su LinkedIn alla valutazione delle opportunità di collaborazione con le community, partecipazione alle conferenze e così via.
 

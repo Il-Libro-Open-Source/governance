@@ -2,6 +2,7 @@
 
 La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Discussion Group.
 
+- [Andrea Guzzo](https://github.com/JeyDi)
 - [Angela Busato](https://github.com/AngyDev)
 - [Francesco Sciuti](https://github.com/fsciuti)
 - [Giuppi](https://github.com/giuppidev)
