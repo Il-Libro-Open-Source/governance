@@ -13,3 +13,4 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Raffaele Colace](https://github.com/rafleze)
 - [Ricardo Antonio Piana](https://github.com/devnuli)
 - [Simone Torrisi](https://github.com/storrisi)
+- [Tommaso Allevi](https://github.com/allevo)
