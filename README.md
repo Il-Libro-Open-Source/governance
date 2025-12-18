@@ -3,6 +3,7 @@
 Questo repository viene utilizzato per collezionare ciò che riguarda la governance del progetto.  
 Attualmente è composto da:
 
+- [Annuncio importante del 18 Dicembre 2025](./meetings/2025-12-18.md)
 - [Lista di Ambassador attualmente in carica](AMBASSADOR.md)
 - [Lista di Contributor attualmente in carica](CONTRIBUTOR.md)
 - [Definizione degli Working Group](WG.md)

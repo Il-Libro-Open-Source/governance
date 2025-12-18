@@ -1,11 +1,11 @@
-g# Community Membership
+# Community Membership
 
 Questo documento illustra le varie responsabilità dei ruoli di un contributor nel libro.
 
 | Ruolo       | Responsabilità                                     | Requisiti                                                                        | Definito da                                                                       |
 | ----------- | -------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Contributor | Membri attivi della community                      | Essere sponsorizzato da due Ambassador e avere diverse contribuzioni al progetto | GitHub Org Member in Triage e accesso al team `@Il-Libro-Open-Source/Contributor` |
-| Ambassador  | Responsabili di capitoli o membri di Working Group | Autorialità di almeno un capitolo                                                | GitHub Org Member in Write e accesso al team `@Il-Libro-Open-Source/Ambassadors`  |
+| Ambassador  | Responsabili di capitoli o membri di Working Group o responsabili di iniziative parallele | Autorialità di almeno un capitolo                                                | GitHub Org Member in Write e accesso al team `@Il-Libro-Open-Source/Ambassadors`  |
 
 ## Nuovi contributors
 
@@ -58,6 +58,7 @@ Gli Ambassadors sono membri costantemente attivi della community. Questi membri 
 - Contributor da almeno 3 mesi
 - Contributor attivo di almeno 1 capitolo del Libro
 - Un Contributor può diventare Ambassador autocandidandosi oppure deve venir nominato da altri ambassador, comunque dovrebbe avere almeno due Ambassador sponsor per procedere alla richiesta
+- In alternativa a quanto sopra, un Ambassador può diventare tale prendendo ownership di una iniziativa parallela al libro (es. organizzazione eventi, gestione social, gestione traduzioni, ecc) e dimostrando di poter portare avanti tale iniziativa in modo costante e propositivo.
 
 ### Responsabilità e privilegi
 

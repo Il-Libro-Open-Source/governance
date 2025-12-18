@@ -40,7 +40,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone con esperienz
 
 ## Tech Group
 
-_Presieduto da Michel Murabito, Corrado Petrelli, Guido Porcaro._
+_Presieduto da Michael Di Prisco._
 
 Questo gruppo si occuperà dell'aspetto più tecnico e operativo attorno al progetto.
 
@@ -52,7 +52,7 @@ Questo gruppo avrà l'autorità di rifiutare PR che non rispettino le linee guid
 
 ## Communication Group
 
-_Presieduto da Simone Gentili, Guido Porcaro, Marco Perugini._
+_Presieduto da Michael Di Prisco._
 
 Questo gruppo si occuperà della comunicazione interna tra gli ambassador.
 
@@ -86,7 +86,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone esposte sui s
 
 ## Funding Group
 
-_Presieduto da Michael Di Prisco, Davide Imola._
+_Presieduto da Michael Di Prisco._
 
 Questo gruppo si occuperà di valutare eventuali possibilità di raccolta fondi e di gestione degli stessi.
 
@@ -100,7 +100,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone che hanno avu
 
 ## Governance Group
 
-_Presieduto da Michael Di Prisco, Michel Murabito, Davide Imola, Enrico Maria Cestari, Marco Perugini._
+_Presieduto da Michael Di Prisco._
 
 Questo gruppo si occuperà di tutto ciò che concerne la gestione del progetto, ovvero le linee guida di nomina e allontanamento degli ambassador, la gestione degli altri Working Group (Inserimento o spostamento di membri), l'organizzazione dei meeting, ecc.
 

@@ -8,7 +8,7 @@ La lista viene compilata in ordine alfabetico e viene tenuta aggiornata dal Disc
 - [Giuppi](https://github.com/giuppidev)
 - [Guido Penta](https://github.com/GuidoPenta)
 - [Luciano Mammino](https://github.com/lmammino)
-- [Mario Pacella](https://github.com/Mik23mik) - (2023-09-30 - 2025-04-24)
+- [Mario Pacella](https://github.com/Mik23mik)
 - [Paolo Martinoli](https://github.com/ugho16)
 - [PantaRei](https://github.com/pantarei-mb)
 - [Raffaele Colace](https://github.com/rafleze)
